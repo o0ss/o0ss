@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Oscar and this is my personal profile ✨
 <!--
 **o0ss/o0ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
